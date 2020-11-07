@@ -1,2 +1,2 @@
-# Network
+# Network Intrusion Detector
  
